@@ -155,6 +155,4 @@ This connects to the TinyLlama model running locally via Ollama.
 
 ## Author
 
-Kalyani Ankasala
-
-Automation Test Engineer transitioning into AI / Machine Learning.
+Kalyani Ankasala.
